@@ -12,7 +12,7 @@ import re
 
 # SETTING PAGE CONFIGURATIONS
 icon = Image.open("youtube-logo-png-2068.png")
-st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By Arshad Ayub Ahmed",
+st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By SivaSuriya",
                    page_icon=icon,
                    layout="wide",
                    initial_sidebar_state="expanded",
